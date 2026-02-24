@@ -4,12 +4,6 @@ This repository shows issues of **CMake bugs** that have been found by **CMakeSo
 
 Each entry links to the corresponding GitHub issue or pull request.  
 
-Some reports were accidentally submitted without anonymity.
-
-Due to the **double-blind review policy**, a few reported cases cannot be included here. These reports will be available upon acceptance.
-
-The number following each link indicates how many of the related bugs we discovered are fixed by the corresponding issue.
-
 ## Reported Issues
 
 - **llvm-project**: [issue #146344](https://github.com/llvm/llvm-project/issues/146344#event-18791548191)  [issue #179102](https://github.com/llvm/llvm-project/issues/179102)   (2 bugs reported, 1 accepted)
@@ -30,4 +24,5 @@ The number following each link indicates how many of the related bugs we discove
 - **NFDecoder**: [issue #22](https://github.com/nativeformat/NFDecoder/issues/22) [issue #23](https://github.com/nativeformat/NFDecoder/issues/23)   (9 bugs reported)
 - **GDExtensionTemplate**: [issue #75](https://github.com/asmaloney/GDExtensionTemplate/issues/75)   (4 bugs reported)
 - **softwarecontainer**: [issue #437](https://github.com/Pelagicore/softwarecontainer/issues/437)  [issue #438](https://github.com/Pelagicore/softwarecontainer/issues/438) (8 bugs reported)
-- **Anonymous** (6 bugs reported, 1 accepted) - It was accidentally submitted without anonymity.
+- **misis2024s-23-18-chashin-m-y**: [issue #1](https://github.com/vvvvtrt/misis2024s-23-18-chashin-m-y/commit/4fe371f592afe809799ebc3b3ed7efc85ac85cd4) (1 bugs reported, 1 accepted)
+- **MegEngine**: [issue #537](https://github.com/MegEngine/MegEngine/issues/537) (4 bugs reported)
